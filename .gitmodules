@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "KMD"]
+	path = KMD
+	url = https://github.com/zh2395/kmd
+	shallow = true
+	registered = true
+[submodule "KPC"]
+	path = KPC
+	url = https://github.com/zh2395/kpc
+	shallow = true
+	registered = true

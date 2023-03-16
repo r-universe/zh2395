@@ -1,0 +1,10 @@
+[
+  {
+    "package": "KMD",
+    "oncran": true
+  },
+  {
+    "package": "KPC",
+    "oncran": true
+  }
+]
